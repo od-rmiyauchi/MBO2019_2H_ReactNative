@@ -7,3 +7,6 @@
 - typescript-fsa, typescript-fsa-reducers
 - redux-saga
 - react-navigation
+
+## アプリ
+![アプリ画像](https://github.com/od-rmiyauchi/MBO2019_2H_ReactNative/blob/master/sample.gif)
